@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+pydantic
+python-dotenv
+pypdf
+unstructured
+pandas
+faiss-cpu
+pyaudio
+pyttsx3

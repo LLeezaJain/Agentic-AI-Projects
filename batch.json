@@ -1,0 +1,10 @@
+[
+  {
+    "user_id": "default",
+    "question": "What is the summary of the document?"
+  },
+  {
+    "user_id": "default",
+    "question": "What are the key takeaways?"
+  }
+]
